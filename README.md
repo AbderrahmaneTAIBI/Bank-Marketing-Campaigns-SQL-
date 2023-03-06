@@ -1,7 +1,7 @@
 # Report: Banks Marketing Compaigns
 
 ## Introduction
-The "banks" table contains data related to customer interactions with a bank, including information about demographic characteristics, marketing campaigns, and loan uptake. The SQL queries in the files BaknsQuering.sql, DescriptiveStatistics.sql, and LoanAnalysis.sql provide insight into this data and can be used for analysis and decision-making.
+The "banks" (https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset) table contains data related to customer interactions with a bank, including information about demographic characteristics, marketing campaigns, and loan uptake. The SQL queries in the files BaknsQuering.sql, DescriptiveStatistics.sql, and LoanAnalysis.sql provide insight into this data and can be used for analysis and decision-making.
 
 ## BaknsQuering.sql
 The queries in BaknsQuering.sql allow users to view specific data and filter it based on certain conditions. These queries are useful for understanding the data in the "banks" table and for extracting insights that can be used for analysis or decision-making. Some of the queries in this file include:
